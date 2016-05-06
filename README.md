@@ -1,8 +1,8 @@
 # CUBLONO HTML
 
-  [![Build Status](https://travis-ci.org/s-ted/cublono-html)](https://travis-ci.org/s-ted/cublono-html.svg)
-  [![Dependencies Status](http://jarkeeper.com/cubane/cublono-html)](http://jarkeeper.com/cubane/cublono-html/status.svg)
-  [![Download Status](https://jarkeeper.com/cubane/cublono-html)](https://jarkeeper.com/cubane/cublono-html/downloads.svg)
+  [![Build Status](https://travis-ci.org/s-ted/cublono-html.svg)](https://travis-ci.org/s-ted/cublono-html)
+  [![Dependencies Status](http://jarkeeper.com/cubane/cublono-html/status.svg)](http://jarkeeper.com/cubane/cublono-html)
+  [![Download Status](https://jarkeeper.com/cubane/cublono-html/downloads.svg)](https://jarkeeper.com/cubane/cublono-html)
 
   Lisp/Hiccup style templating in [ClojureScript](https://github.com/clojure/clojurescript]) producing HTML.
 
